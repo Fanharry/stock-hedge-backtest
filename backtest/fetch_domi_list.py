@@ -1,0 +1,1 @@
+（从本地fetch_domi_list.py读取的内容）
